@@ -1,0 +1,13 @@
+C:\Users\convencaoinfo10\source\repos\progresso\progresso\bin\Debug\netcoreapp3.1\progresso.exe
+C:\Users\convencaoinfo10\source\repos\progresso\progresso\bin\Debug\netcoreapp3.1\progresso.deps.json
+C:\Users\convencaoinfo10\source\repos\progresso\progresso\bin\Debug\netcoreapp3.1\progresso.runtimeconfig.json
+C:\Users\convencaoinfo10\source\repos\progresso\progresso\bin\Debug\netcoreapp3.1\progresso.runtimeconfig.dev.json
+C:\Users\convencaoinfo10\source\repos\progresso\progresso\bin\Debug\netcoreapp3.1\progresso.dll
+C:\Users\convencaoinfo10\source\repos\progresso\progresso\bin\Debug\netcoreapp3.1\progresso.pdb
+C:\Users\convencaoinfo10\source\repos\progresso\progresso\obj\Debug\netcoreapp3.1\progresso.csprojAssemblyReference.cache
+C:\Users\convencaoinfo10\source\repos\progresso\progresso\obj\Debug\netcoreapp3.1\progresso.csproj.CoreCompileInputs.cache
+C:\Users\convencaoinfo10\source\repos\progresso\progresso\obj\Debug\netcoreapp3.1\progresso.AssemblyInfoInputs.cache
+C:\Users\convencaoinfo10\source\repos\progresso\progresso\obj\Debug\netcoreapp3.1\progresso.AssemblyInfo.cs
+C:\Users\convencaoinfo10\source\repos\progresso\progresso\obj\Debug\netcoreapp3.1\progresso.dll
+C:\Users\convencaoinfo10\source\repos\progresso\progresso\obj\Debug\netcoreapp3.1\progresso.pdb
+C:\Users\convencaoinfo10\source\repos\progresso\progresso\obj\Debug\netcoreapp3.1\progresso.genruntimeconfig.cache
